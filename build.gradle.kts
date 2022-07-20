@@ -7,7 +7,7 @@ plugins {
     id("org.jetbrains.dokka") version "1.7.0"
 }
 
-group = "org.example.kotlin_bot_template"
+group = "org.example.ktbot"
 val compileVersion: String = "v1.0.0"
 var mainClassName: String = "${group}.Main"
 

@@ -1,7 +1,7 @@
-package org.example.kotlin_bot_template.events
+package org.example.ktbot.events
 
 import net.dv8tion.jda.api.events.ReadyEvent
-import org.example.kotlin_bot_template.Logger
+import org.example.ktbot.Logger
 
 class OnReady {
     fun handle(event: ReadyEvent) {

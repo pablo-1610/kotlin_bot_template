@@ -1,4 +1,4 @@
-package org.example.kotlin_bot_template
+package org.example.ktbot
 
 import dev.minn.jda.ktx.jdabuilder.injectKTX
 import io.github.cdimascio.dotenv.Dotenv
